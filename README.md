@@ -32,6 +32,7 @@ Having a lot of fun building with agents. Loves shipping things.
 | Project | |
 |---------|--:|
 | [beads](https://github.com/steveyegge/beads) | ⭐ 6.5k |
+| [wifitui](https://github.com/shazow/wifitui) | ⭐ 199 |
 | [datadog-mcp](https://github.com/ppandrangi/datadog-mcp) | |
 
 ## Tech
