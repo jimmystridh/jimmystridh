@@ -15,6 +15,8 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | Description | |
 |---------|-------------|:--:|
+| [datadog-mcp](https://github.com/jimmystridh/datadog-mcp) | MCP server connecting AI assistants to Datadog monitoring | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
+| [datadog-api](https://github.com/jimmystridh/datadog-mcp/tree/main/datadog-api) | Rust client library for Datadog API | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/datadog-api.svg?style=flat-square)](https://crates.io/crates/datadog-api) |
 | [willys-mcp](https://github.com/jimmystridh/willys-mcp) | MCP server for Willys grocery — cart, orders, AI-powered product matching | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [lazyslack](https://github.com/jimmystridh/lazyslack) | Terminal Slack client with vim-style keybindings | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [slacko](https://github.com/jimmystridh/slacko) | Comprehensive Rust SDK for Slack API with stealth mode | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/slacko.svg?style=flat-square)](https://crates.io/crates/slacko) |
@@ -39,7 +41,6 @@ Having a lot of fun building with agents. Loves shipping things.
 |---------|--:|
 | [beads](https://github.com/steveyegge/beads) | ⭐ 6.5k |
 | [wifitui](https://github.com/shazow/wifitui) | ⭐ 199 |
-| [datadog-mcp](https://github.com/ppandrangi/datadog-mcp) | |
 
 ## Tech
 
