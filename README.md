@@ -15,6 +15,7 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | Description | |
 |---------|-------------|:--:|
+| [willys-mcp](https://github.com/jimmystridh/willys-mcp) | MCP server for Willys grocery — cart, orders, AI-powered product matching | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [rloc](https://github.com/jimmystridh/rloc) | Blazingly fast line-of-code counter, cloc replacement | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [alfred-trimmy](https://github.com/jimmystridh/alfred-trimmy) | Alfred workflow for trimming multi-line shell commands | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | [whisperx-transcription](https://github.com/jimmystridh/whisperx-transcription) | Automated audio transcription with WhisperX, speaker diarization | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
@@ -44,4 +45,3 @@ Having a lot of fun building with agents. Loves shipping things.
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
-
