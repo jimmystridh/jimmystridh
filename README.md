@@ -16,6 +16,7 @@ Having a lot of fun building with agents. Loves shipping things.
 | Project | Description | |
 |---------|-------------|:--:|
 | [willys-mcp](https://github.com/jimmystridh/willys-mcp) | MCP server for Willys grocery — cart, orders, AI-powered product matching | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [lazyslack](https://github.com/jimmystridh/lazyslack) | Terminal Slack client with vim-style keybindings | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [slacko](https://github.com/jimmystridh/slacko) | Comprehensive Rust SDK for Slack API with stealth mode | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/slacko.svg?style=flat-square)](https://crates.io/crates/slacko) |
 | [rloc](https://github.com/jimmystridh/rloc) | Blazingly fast line-of-code counter, cloc replacement | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [alfred-trimmy](https://github.com/jimmystridh/alfred-trimmy) | Alfred workflow for trimming multi-line shell commands | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
