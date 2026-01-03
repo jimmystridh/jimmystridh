@@ -43,6 +43,7 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | |
 |---------|--:|
+| [Mole](https://github.com/tw93/Mole) | ⭐ 24.5k |
 | [beads](https://github.com/steveyegge/beads) | ⭐ 6.5k |
 | [wifitui](https://github.com/shazow/wifitui) | ⭐ 199 |
 | [datadog-mcp](https://github.com/ppandrangi/datadog-mcp) | |
