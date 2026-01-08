@@ -1,3 +1,5 @@
+<img src="logo.png" align="right" width="150" />
+
 # Jimmy Stridh
 
 ### AI Engineer · Full-Stack Developer · Technical Leader
