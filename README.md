@@ -37,6 +37,7 @@ Having a lot of fun building with agents. Loves shipping things.
 | [sidebar-project-md-notes](https://github.com/jimmystridh/sidebar-project-md-notes) | VS Code extension for project-synced markdown notes | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [claude-code-vscode-patcher](https://github.com/jimmystridh/claude-code-vscode-patcher) | Patch Claude Code VS Code extension to inject CLI args | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | [claude-code-stats-ubersicht](https://github.com/jimmystridh/claude-code-stats-ubersicht) | Übersicht widget for Claude Code usage stats | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
+| [alfred-loopback-control](https://github.com/jimmystridh/alfred-loopback-control) | Alfred workflow to control Loopback virtual audio devices | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [alfred-trimmy](https://github.com/jimmystridh/alfred-trimmy) | Alfred workflow for trimming multi-line shell commands | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | [frasch](https://github.com/jimmystridh/frasch) | Mac OS configuration scripts | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 
