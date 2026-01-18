@@ -17,6 +17,7 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | Description | |
 |---------|-------------|:--:|
+| [smartshell](https://github.com/jimmystridh/smartshell) | LLM-powered zsh command generation — Ctrl+G, describe, done | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [lazyslack](https://github.com/jimmystridh/lazyslack) | Terminal Slack client with vim-style keybindings | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [slacko](https://github.com/jimmystridh/slacko) | Comprehensive Rust SDK for Slack API with stealth mode | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/slacko.svg?style=flat-square)](https://crates.io/crates/slacko) |
 | [datadog-mcp](https://github.com/jimmystridh/datadog-mcp) | MCP server connecting AI assistants to Datadog monitoring | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
