@@ -1,0 +1,23 @@
+README.md
+  2224d5ff913ea98c 56-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "113c59712bd8465cab33e950e8774553f4e6a82b",
+  "prompts": {
+    "2224d5ff913ea98c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77e121a5-3527-4428-b975-6ecc871d4672",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jimmy Stridh <jimmystridh@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 3,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}
