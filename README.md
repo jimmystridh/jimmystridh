@@ -53,9 +53,11 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | |
 |---------|--:|
-| [Mole](https://github.com/tw93/Mole) | ⭐ 24.5k |
-| [beads](https://github.com/steveyegge/beads) | ⭐ 6.5k |
-| [wifitui](https://github.com/shazow/wifitui) | ⭐ 199 |
+| [Mole](https://github.com/tw93/Mole) | ⭐ 33.7k |
+| [beads](https://github.com/steveyegge/beads) | ⭐ 15.4k |
+| [wifitui](https://github.com/shazow/wifitui) | ⭐ 245 |
+| [go-sqlcmd](https://github.com/microsoft/go-sqlcmd) | ⭐ 507 |
+| [firecrawl/cli](https://github.com/firecrawl/cli) | ⭐ 86 |
 | [datadog-mcp](https://github.com/ppandrangi/datadog-mcp) | |
 
 ## Tech
