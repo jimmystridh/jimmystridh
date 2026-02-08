@@ -1,0 +1,25 @@
+update_repos.py
+  2224d5ff913ea98c 1-152
+README.md
+  2224d5ff913ea98c 27-28,31,33,35,39,41,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "f88a80c0a51721b32f87f69f72a6589ba1773d9a",
+  "prompts": {
+    "2224d5ff913ea98c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77e121a5-3527-4428-b975-6ecc871d4672",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jimmy Stridh <jimmystridh@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 173,
+      "total_deletions": 14,
+      "accepted_lines": 160,
+      "overriden_lines": 0
+    }
+  }
+}
