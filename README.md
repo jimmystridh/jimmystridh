@@ -17,6 +17,7 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | Description | |
 |---------|-------------|:--:|
+| [codex-sdk-swift](https://github.com/jimmystridh/codex-sdk-swift) | Async Swift SDK for the OpenAI Codex app server | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) [![GitHub Release](https://img.shields.io/github/v/release/jimmystridh/codex-sdk-swift?style=flat-square&label=release)](https://github.com/jimmystridh/codex-sdk-swift/releases/latest) |
 | [codex-sdk-rs](https://github.com/jimmystridh/codex-sdk-rs) | Unofficial Rust SDK for the OpenAI Codex app server | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/codex-sdk-rs.svg?style=flat-square)](https://crates.io/crates/codex-sdk-rs) |
 | [brownie-bench](https://github.com/jimmystridh/brownie-bench) | Reproducible benchmark for constrained AI brownie formulation | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [streamdeckd](https://github.com/jimmystridh/streamdeckd) | Headless Rust daemon for driving a Stream Deck directly over HID | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
@@ -78,6 +79,7 @@ Having a lot of fun building with agents. Loves shipping things.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=flat&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
