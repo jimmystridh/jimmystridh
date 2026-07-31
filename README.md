@@ -17,8 +17,14 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | Description | |
 |---------|-------------|:--:|
+| [codex-sdk-rs](https://github.com/jimmystridh/codex-sdk-rs) | Unofficial Rust SDK for the OpenAI Codex app server | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/codex-sdk-rs.svg?style=flat-square)](https://crates.io/crates/codex-sdk-rs) |
+| [brownie-bench](https://github.com/jimmystridh/brownie-bench) | Reproducible benchmark for constrained AI brownie formulation | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [streamdeckd](https://github.com/jimmystridh/streamdeckd) | Headless Rust daemon for driving a Stream Deck directly over HID | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
+| [agent-history](https://github.com/jimmystridh/agent-history) | Unified TUI and CLI for browsing local coding-agent session history | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
+| [agent-retrospective](https://github.com/jimmystridh/agent-retrospective) | Turn Claude Code and Codex history into a shareable retrospective | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
+| [pii-masker](https://github.com/jimmystridh/pii-masker) | PII detection and masking library and CLI powered by DeBERTa | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/pii-masker.svg?style=flat-square)](https://crates.io/crates/pii-masker) |
+| [lab](https://github.com/jimmystridh/lab) | CLI and TUI for managing ephemeral workspaces | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [smartshell](https://github.com/jimmystridh/smartshell) | LLM-powered zsh command generation — Ctrl+G, describe, done | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
-| [lazyslack](https://github.com/jimmystridh/lazyslack) | Terminal Slack client with vim-style keybindings | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [slacko](https://github.com/jimmystridh/slacko) | Comprehensive Rust SDK for Slack API with stealth mode | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/slacko.svg?style=flat-square)](https://crates.io/crates/slacko) |
 | [datadog-mcp](https://github.com/jimmystridh/datadog-mcp) | MCP server connecting AI assistants to Datadog monitoring | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [datadog-api](https://github.com/jimmystridh/datadog-mcp/tree/main/datadog-api) | Rust client library for Datadog API | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/datadog-api.svg?style=flat-square)](https://crates.io/crates/datadog-api) |
@@ -58,13 +64,13 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | |
 |---------|--:|
-| [Mole](https://github.com/tw93/Mole) | ⭐ 39.3k |
-| [beads](https://github.com/steveyegge/beads) | ⭐ 18.8k |
-| [wifitui](https://github.com/shazow/wifitui) | ⭐ 268 |
-| [go-sqlcmd](https://github.com/microsoft/go-sqlcmd) | ⭐ 515 |
-| [firecrawl/cli](https://github.com/firecrawl/cli) | ⭐ 164 |
-| [slayzone](https://github.com/debuglebowski/slayzone) | ⭐ 89 |
-| [datadog-mcp](https://github.com/ppandrangi/datadog-mcp) | ⭐ 4 |
+| [Mole](https://github.com/tw93/Mole) | [![GitHub stars](https://img.shields.io/github/stars/tw93/Mole?style=flat-square)](https://github.com/tw93/Mole/stargazers) |
+| [beads](https://github.com/gastownhall/beads) | [![GitHub stars](https://img.shields.io/github/stars/gastownhall/beads?style=flat-square)](https://github.com/gastownhall/beads/stargazers) |
+| [wifitui](https://github.com/shazow/wifitui) | [![GitHub stars](https://img.shields.io/github/stars/shazow/wifitui?style=flat-square)](https://github.com/shazow/wifitui/stargazers) |
+| [go-sqlcmd](https://github.com/microsoft/go-sqlcmd) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/go-sqlcmd?style=flat-square)](https://github.com/microsoft/go-sqlcmd/stargazers) |
+| [firecrawl/cli](https://github.com/firecrawl/cli) | [![GitHub stars](https://img.shields.io/github/stars/firecrawl/cli?style=flat-square)](https://github.com/firecrawl/cli/stargazers) |
+| [slayzone](https://github.com/debuglebowski/slayzone) | [![GitHub stars](https://img.shields.io/github/stars/debuglebowski/slayzone?style=flat-square)](https://github.com/debuglebowski/slayzone/stargazers) |
+| [datadog-mcp](https://github.com/ppandrangi/datadog-mcp) | [![GitHub stars](https://img.shields.io/github/stars/ppandrangi/datadog-mcp?style=flat-square)](https://github.com/ppandrangi/datadog-mcp/stargazers) |
 
 ## Tech
 
@@ -73,5 +79,6 @@ Having a lot of fun building with agents. Loves shipping things.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=flat&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
