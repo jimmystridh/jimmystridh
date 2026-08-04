@@ -17,6 +17,7 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | Description | |
 |---------|-------------|:--:|
+| [walkingpad-rs](https://github.com/jimmystridh/walkingpad-rs) | Async Rust library and stateless CLI for KingSmith WalkingPad treadmills | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [codex-sdk-swift](https://github.com/jimmystridh/codex-sdk-swift) | Async Swift SDK for the OpenAI Codex app server | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) [![GitHub Release](https://img.shields.io/github/v/release/jimmystridh/codex-sdk-swift?style=flat-square&label=release)](https://github.com/jimmystridh/codex-sdk-swift/releases/latest) |
 | [codex-sdk-rs](https://github.com/jimmystridh/codex-sdk-rs) | Unofficial Rust SDK for the OpenAI Codex app server | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) [![crates.io](https://img.shields.io/crates/v/codex-sdk-rs.svg?style=flat-square)](https://crates.io/crates/codex-sdk-rs) |
 | [brownie-bench](https://github.com/jimmystridh/brownie-bench) | Reproducible benchmark for constrained AI brownie formulation | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
