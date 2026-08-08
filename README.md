@@ -17,6 +17,7 @@ Having a lot of fun building with agents. Loves shipping things.
 
 | Project | Description | |
 |---------|-------------|:--:|
+| [app-monitor](https://github.com/jimmystridh/app-monitor) | Native, local-first macOS time tracker with productivity insights and a bundled MCP server | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
 | [tenplusone](https://github.com/jimmystridh/tenplusone) | Unofficial Rust CLI for submitting documents to ElevenReader | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [walkingpad-rs](https://github.com/jimmystridh/walkingpad-rs) | Async Rust library and stateless CLI for KingSmith WalkingPad treadmills | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 | [codex-sdk-swift](https://github.com/jimmystridh/codex-sdk-swift) | Async Swift SDK for the OpenAI Codex app server | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) [![GitHub Release](https://img.shields.io/github/v/release/jimmystridh/codex-sdk-swift?style=flat-square&label=release)](https://github.com/jimmystridh/codex-sdk-swift/releases/latest) |
